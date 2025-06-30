@@ -3,7 +3,7 @@
 ## Original Authors  
 This project is created and maintained by:
 
-- **Akmal Hakimi 
+- Akmal Hakimi 
 - Muhamad Irfan Mikael
 - Muhammad Danial
 - Muhammad Aisy Syahyn
